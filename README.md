@@ -1,16 +1,15 @@
 
 > Open this page at [https://bigqubot.github.io/pxt-triodecar/](https://bigqubot.github.io/pxt-triodecar/)
+
 ## Usage
 
-### ''CarDirection''
+### ``CarDirection``
 
-Use the ''CarDirection'' blocks to control the car
+Use the ``CarDirection`` blocks to control the car
 
-'''blocks 
-basic.forever(function () {
+```blocks 
     triodecar.CarDirection(triodecar.direction.foward)
-})
-'''
+```
 
 ## Use as Extension
 
