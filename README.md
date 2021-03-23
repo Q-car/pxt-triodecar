@@ -8,9 +8,20 @@
 Use the ``CarDirection`` blocks to control the car
 
 ```blocks 
+basic.forever(() => {
     triodecar.CarDirection(triodecar.direction.foward)
+})
 ```
 
+### ``readPatrol``
+
+Use the ``readPatrol`` blocks to control the car
+
+```blocks 
+basic.forever(() => {
+    serial.writeLine("" + (triodecar.readPatrol(triodecar.Patrol.PatrolLeft)))
+})
+```
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
