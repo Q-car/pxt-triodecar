@@ -20,7 +20,7 @@ input.onButtonPressed(Button.A, function () {
     triodecar.CarDirection(triodecar.direction.right)
 })
 ```
-## 
+## step 3
 
 ``||input:temperature||``  ``||basic:show number||``
 
