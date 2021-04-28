@@ -36,7 +36,7 @@ This repository can be added as an **extension** in MakeCode.
 
 ## Tutorials
 
-* [tutorial](/pxt-triodecar/tutorial) [start](https://makecode.microbit.org/#tutorial:github:q-car/pxt-triodecar/tutorial)
+* [tutorial](/pxt-triodecar/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:q-car/pxt-triodecar/tutorial)
 
 
 
