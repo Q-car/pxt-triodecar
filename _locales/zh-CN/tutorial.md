@@ -72,7 +72,7 @@ input.onButtonPressed(Button.AB, function () {
 
 ## step 6
 
-从``||TriodeCar:TriodeCar||``中将``||TriodeCar:let the car go foward||``积木置入``||Basic:当开机时||积木中``，将可选项改为"stop"。
+从``||TriodeCar:TriodeCar||``中将``||TriodeCar:let the car go foward||``积木置入 ``||basic:当开机时||``，将可选项改为"stop"。
 
 此处实现的功能为：micro:bit开机或重置时停止TriodeCar的电机。
 
