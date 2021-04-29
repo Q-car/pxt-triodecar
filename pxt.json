@@ -4,8 +4,7 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "microphone": "*",
-        "bluetooth": "*"
+        "microphone": "*"
     },
     "files": [
         "README.md",
