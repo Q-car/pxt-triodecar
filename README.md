@@ -34,12 +34,6 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/bigqubot/pxt-triodecar** and import
 
-## Tutorials
-
-* [tutorial](/pxt-triodecar/tutorial) | [start](https://makecode.microbit.org/#tutorial:github:q-car/pxt-triodecar/tutorial)
-
-
-
 ## Edit this project ![Build status badge](https://github.com/bigqubot/pxt-triodecar/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
